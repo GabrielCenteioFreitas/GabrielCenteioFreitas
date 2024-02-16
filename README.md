@@ -11,12 +11,10 @@
  - 📝 Atualmente estudando **Python** e **HTML/CSS/JS**!
 
  <br>
- <dd><dl><dd><dl><dd><dl><dd><dl>
    <sup>
          <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
          <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
          <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
          <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </sup>
-</dd></dl></dd></dl></dd></dl></dd></dl>
 </div>
