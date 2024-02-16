@@ -10,7 +10,7 @@
  - 📚 Cursando **Ciência da Computação** no CEFET/RJ!
  - 📝 Atualmente estudando **Python** e **HTML/CSS/JS**!
 
- <br><br>
+ <br><br><br>
    <sup>
          <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
          <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
