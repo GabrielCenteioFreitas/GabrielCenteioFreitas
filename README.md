@@ -17,7 +17,7 @@
     <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </sup>
-  <br><br><br><br>
+  <br><br><br><br><br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcenteiofreitas&hide_progress=true&langs_count=4&theme=transparent)
 </div>
