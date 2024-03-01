@@ -1,6 +1,4 @@
-
-
- <img align="right" src="Github-README.png" width="50%">
+<img align="right" src="Github-README.png" width="50%">
  
 <div>
  <h1>Olá, sou o Gabriel Freitas! ✨</h1>
