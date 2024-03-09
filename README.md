@@ -1,6 +1,6 @@
-<img align="right" src="Github-README.png" width="50%">
+<img align="right" src="Github-README.png" width="45%">
 
-<h1> Olá, sou o Gabriel Freitas! ✨<br> <kbd>Ciência da Computação - CEFET/RJ!</kbd> </h1>
+<h1> Olá, sou o Gabriel Freitas! ✨<br><kbd>Ciência da Computação - CEFET/RJ!</kbd> </h1>
 
 ### 💡 Habilidades e 📚 Estudos
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
