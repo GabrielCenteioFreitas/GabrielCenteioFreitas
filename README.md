@@ -1,21 +1,16 @@
 <img align="right" src="Github-README.png" width="50%">
- 
-<div>
- <h1>Olá, sou o Gabriel Freitas! ✨</h1>
- 
- <br>
 
- - 📚 Cursando **Ciência da Computação** no CEFET/RJ!
- - 📝 Atualmente estudando **Python** e **HTML/CSS/JS**!
+<h1> Olá, sou o Gabriel Freitas! ✨<br> <kbd>Ciência da Computação - CEFET/RJ!</kbd> </h1>
 
-  <br>
-  <sup>
-    <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  </sup>
-  <br><br><br><br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcenteiofreitas&hide_progress=true&langs_count=5&theme=transparent)
-</div>
+
+### 💡 Habilidades e 📚 Estudos
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 🔸 Linguagens do Repositório
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcenteiofreitas&hide_progress=true&langs_count=5&theme=transparent&title_color=c6ccd1&border_color=633bbc)
