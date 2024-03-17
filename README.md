@@ -13,4 +13,4 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🔸 Linguagens do Repositório
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcenteiofreitas&hide_progress=true&langs_count=5&theme=transparent&title_color=c6ccd1&border_color=633bbc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcenteiofreitas&hide_progress=true&langs_count=100&theme=transparent&title_color=c6ccd1&border_color=633bbc&hide=procfile)
