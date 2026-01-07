@@ -16,4 +16,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)<br>
 
 ### 🔸 Linguagens do Repositório
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcenteiofreitas&hide_progress=true&langs_count=100&theme=transparent&title_color=c6ccd1&border_color=633bbc&hide=procfile,shell)
+![Top Langs](https://github-readme-stats-nine-omega-44.vercel.app/api/top-langs?username=gabrielcenteiofreitas&hide_progress=true&langs_count=100&theme=transparent&title_color=c6ccd1&border_color=633bbc&hide=procfile,shell,hlsl,mathematica,shaderlab,plpgsql,mdx)
